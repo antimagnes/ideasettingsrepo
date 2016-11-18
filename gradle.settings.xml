@@ -1,0 +1,5 @@
+<application>
+  <component name="GradleSystemSettings">
+    <option name="gradleVmOptions" value="-Pkotlin.incremental=true" />
+  </component>
+</application>
