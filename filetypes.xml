@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="dia" type="Native" />
       <mapping ext="template" type="Bash" />
+      <mapping ext="dia" type="Native" />
+      <mapping ext="odpl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
