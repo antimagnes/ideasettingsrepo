@@ -4,6 +4,7 @@
       <mapping ext="template" type="Bash" />
       <mapping ext="dia" type="Native" />
       <mapping ext="odpl" type="PLAIN_TEXT" />
+      <mapping ext="off" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
