@@ -3,9 +3,10 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="dia" type="Native" />
+      <mapping pattern="charactercounter" type="PLAIN_TEXT" />
       <mapping ext="odpl" type="PLAIN_TEXT" />
-      <mapping ext="off" type="PLAIN_TEXT" />
       <mapping ext="tf1" type="PLAIN_TEXT" />
+      <mapping ext="off" type="PLAIN_TEXT" />
       <mapping ext="tf2" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
